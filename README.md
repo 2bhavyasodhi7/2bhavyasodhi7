@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B0F1A,50:B8860B,100:0B6E4F&height=3" width="100%"/>
 
-## 🧬 About Me
+##  About Me
 
 ```python
 class BhavyaSodhi:
@@ -120,7 +120,7 @@ I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B0F1A,50:B8860B,100:0B6E4F&height=3" width="100%"/>
 
-## -- Let's Connect
+## Let's Connect
 
 <div align="center">
 
