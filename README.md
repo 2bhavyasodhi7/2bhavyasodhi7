@@ -107,7 +107,7 @@ I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:CD7F32,100:8B0000&height=3" width="100%"/>
 
-## || GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
