@@ -45,7 +45,7 @@ I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:CD7F32,100:8B0000&height=3" width="100%"/>
 
-## -- Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -92,7 +92,7 @@ I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipeline
 
 
 
-## -- Achievements & Certifications
+## Achievements & Certifications
 
 | Achievement | Event | Date |
 |:---|:---|:---|
@@ -100,7 +100,7 @@ I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipeline
 | 🥈 Semi-Finalist | Tata Imagination Challenge | Oct 2025 |
 | 🏅 Top 10 Teams | Microsoft INNOVATE Hackathon, Bennett University | Jan 2025 |
 
-**📜 Certifications**
+** Certifications**
 - Build Better Generative Adversarial Networks — *Coursera* (Mar 2026)
 - Build Basic Generative Adversarial Networks — *Coursera* (Mar 2026)
 - Project Initiation: Starting a Successful Project — *Coursera* (Mar 2025)
