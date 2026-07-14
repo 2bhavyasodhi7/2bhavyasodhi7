@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0F1A,35:B8860B,70:CD7F32,100:0B6E4F&height=230&section=header&text=Bhavya%20Sodhi&fontSize=48&fontColor=FFF8DC&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20GenAI%20and%20Agentic%20Systems%20Builder&descAlignY=52&descSize=18&descColor=F4C430" width="100%" alt="header"/>
+<h1 align="center">Bhavya Sodhi</h1>
+
+<h3 align="center">
+AI/ML Engineer | GenAI and Agentic Systems Builder
+</h3>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=FFC300&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Decisions;Building+Agentic+AI+Systems;Explainable+AI+%7C+NLP+%7C+GenAI;B.Tech+CSE+%40+Bennett+University" alt="Typing SVG"/>
 
@@ -38,8 +42,6 @@ me.say_hi()
 
 I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipelines with explainable score breakdowns, to offline RAG systems, to NLP models that keep the internet a little safer.
 
-
--  **Currently exploring:** Multi-agent orchestration, RAG architectures, LLM fine-tuning
 -  **Studying:** B.Tech Computer Science Engineering @ Bennett University
 -  **Recent recognition:** Semi-Finalist, **ET-AI Hackathon 2026** by The Economic Times
 
@@ -91,21 +93,6 @@ I'm a Computer Science undergrad. Currently exploring multi-agent GenAI pipeline
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B0F1A,50:B8860B,100:0B6E4F&height=3" width="100%"/>
 
 
-
-## Achievements & Certifications
-
-| Achievement | Event | Date |
-|:---|:---|:---|
-| 🥈 Semi-Finalist | **ET-AI Hackathon 2026**, The Economic Times | May 2026 |
-| 🥈 Semi-Finalist | Tata Imagination Challenge | Oct 2025 |
-| 🏅 Top 10 Teams | Microsoft INNOVATE Hackathon, Bennett University | Jan 2025 |
-
-** Certifications**
-- Build Better Generative Adversarial Networks — *Coursera* (Mar 2026)
-- Build Basic Generative Adversarial Networks — *Coursera* (Mar 2026)
-- Project Initiation: Starting a Successful Project — *Coursera* (Mar 2025)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:CD7F32,100:8B0000&height=3" width="100%"/>
 
 ## GitHub Analytics
 
